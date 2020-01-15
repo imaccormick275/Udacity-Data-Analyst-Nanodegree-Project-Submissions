@@ -1,0 +1,13 @@
+,index,start_region,ratio,metric,metric_type
+0,0,East-Bay,0.20459275783954095,Rides,Demand Metric
+1,1,San-Fransisco,0.7626921794326322,Rides,Demand Metric
+2,2,South-Bay,0.032715062727826774,Rides,Demand Metric
+3,0,East-Bay,0.1973402744804859,Duration,Demand Metric
+4,1,San-Fransisco,0.7714224320869786,Duration,Demand Metric
+5,2,South-Bay,0.03123729343253552,Duration,Demand Metric
+6,0,East-Bay,0.3992673992673993,Stations,Supply Metric
+7,1,San-Fransisco,0.4468864468864469,Stations,Supply Metric
+8,2,South-Bay,0.15384615384615385,Stations,Supply Metric
+9,0,East-Bay,0.3784756297023225,Bikes,Supply Metric
+10,1,San-Fransisco,0.5099771017337259,Bikes,Supply Metric
+11,2,South-Bay,0.12168792934249265,Bikes,Supply Metric
